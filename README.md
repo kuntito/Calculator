@@ -4,7 +4,7 @@ This Android app is a minimalist calculator that performs basic arithmetic opera
 ## Features
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Specify the order of operations using parentheses.
-- Minimalistic and straightforward user interface ([UI design done in figma](https://www.figma.com/file/5IF5zYiIRz81aodthQpbti/SimpleCalc?type=design&node-id=90%3A171&mode=design&t=9bbeISYCv2nmWmX4-1)).
+- Minimalistic and straightforward user interface ([UI design done in figma](https://www.figma.com/file/fmG8v59zUSqLJptOZHbtzU/_SimpleCalc?type=design&mode=design&t=TVbAg4PBUHDl8ax8-0)).
 
 ## Screenshots
 <img width="321" alt="0  splash" src="https://github.com/kuntito/Calculator/assets/106985013/c7c24505-91f8-4a2f-9aab-44cc13f081b6">
