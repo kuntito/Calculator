@@ -1,5 +1,5 @@
 # Simple Calculator App
-This Android app is a minimalist calculator that performs basic arithmetic operations such as addition (+), subtraction (-), multiplication (*), and division (/). It also allows users to specify the order of operations using parentheses.
+An android app that performs basic arithmetic (+, -, /, *) with parentheses for ordering operations.
 
 ## Features
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
